@@ -2,10 +2,14 @@
 
 # BlackGuard Technologies
 
-Explore our [public repositories](https://github.com/orgs/BlackGuard-Technologies/repositories) for source code and project documentation.
+BlackGuard Technologies is an independently owned software business. I build mobile apps, desktop software, and websites here under one name.
 
-## Working with a project
+| Area | Platforms |
+| --- | --- |
+| Mobile apps | Android, iPhone, and iPad |
+| Desktop software | Windows, Linux, and macOS |
+| Web | Websites and web applications |
 
-- **Get started:** Open the project README for setup instructions and supported versions.
-- **Report a bug:** If the repository accepts issues, include the version, steps to reproduce, and expected result. Leave credentials and private data out of reports.
-- **Report a security concern:** Check the repository's security policy for a private reporting channel. Do not post vulnerability details in a public issue.
+## Public work
+
+Browse the [public repositories](https://github.com/orgs/BlackGuard-Technologies/repositories) for published source and documentation. Development projects remain private unless I choose to release them.
